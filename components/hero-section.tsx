@@ -27,7 +27,7 @@ export function HeroSection() {
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
         <video autoPlay muted loop playsInline className="w-full h-full object-cover" poster="/images/hero-bg.jpg">
-          <source src="/videos/hero-video.mp4" type="video/mp4" />
+          <source src="/videos/hero.mp4" type="video/mp4" />
           {/* Fallback image if video doesn't load */}
           <Image
             src="/images/hero-bg.jpg"
