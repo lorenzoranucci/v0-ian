@@ -26,8 +26,8 @@ export function HeroSection() {
     <section className="relative h-screen flex items-center justify-center overflow-hidden">
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
-        <video autoPlay muted loop playsInline className="w-full h-full object-cover" poster="/images/hero-bg.jpg">
-          <source src="/videos/hero.mp4" type="video/mp4" />
+        <video autoPlay muted loop playsInline className="w-full h-full object-cover" poster="/hero-bg.jpg">
+          <source src="/hero.mp4" type="video/mp4" />
           {/* Fallback image if video doesn't load */}
           <Image
             src="/images/hero-bg.jpg"
