@@ -24,16 +24,20 @@ export function HeroSection() {
 
   return (
     <section className="relative h-screen flex items-center justify-center overflow-hidden">
-      {/* Background Image */}
+      {/* Background Video */}
       <div className="absolute inset-0 z-0">
-        <Image
-          src="/images/hero-bg.jpg"
-          alt="Bike tour through vineyards at Lake Bolsena"
-          fill
-          className="object-cover"
-          priority
-        />
-        <div className="absolute inset-0 bg-black/30" />
+        <video autoPlay muted loop playsInline className="w-full h-full object-cover" poster="/images/hero-bg.jpg">
+          <source src="/videos/hero-video.mp4" type="video/mp4" />
+          {/* Fallback image if video doesn't load */}
+          <Image
+            src="/images/hero-bg.jpg"
+            alt="Bike tour through vineyards at Lake Bolsena"
+            fill
+            className="object-cover"
+            priority
+          />
+        </video>
+        <div className="absolute inset-0 bg-black/40" />
       </div>
 
       {/* Content */}
