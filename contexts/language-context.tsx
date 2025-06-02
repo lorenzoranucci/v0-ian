@@ -49,14 +49,15 @@ const translations = {
     "tours.title": "I Nostri Tour",
     "tours.description":
       "Scegli l'esperienza che fa per te tra i nostri tour guidati, ognuno pensato per offrirti il meglio del territorio.",
-    "tours.classic.title": "Tour Classico del Lago",
-    "tours.classic.description":
-      "Il tour perfetto per scoprire i punti panoramici più belli del Lago di Bolsena, attraversando vigneti e borghi storici.",
-    "tours.vineyards.title": "Tour dei Vigneti",
-    "tours.vineyards.description":
-      "Un'immersione completa nella tradizione vinicola locale con visite alle cantine e degustazioni guidate.",
-    "tours.sunset.title": "Tour Sunset",
-    "tours.sunset.description": "Un'esperienza romantica al tramonto con aperitivo vista lago e atmosfera magica.",
+    "tours.nature.title": "Bike Tour Nature",
+    "tours.nature.description":
+      "Un'immersione totale nella natura incontaminata, lontano dal caos quotidiano. Percorsi attraverso boschi rigogliosi dove scoprirai sorgenti di acqua pura, cascate nascoste e panorami mozzafiato sul Lago di Bolsena.",
+    "tours.panoramic.title": "Bike Tour Panoramic & Villages",
+    "tours.panoramic.description":
+      "Un tour rilassante che ti porterà a scoprire i punti panoramici più spettacolari del lago e gli affascinanti borghi medievali che ne costellano le sponde, ricchi di storia e tradizioni.",
+    "tours.wine.title": "Bike&Wine Experience",
+    "tours.wine.description":
+      "Un'esperienza unica tra i vigneti dell'Antica Cantina Leonardi con vista panoramica sul lago. Include picnic con calice di vino, visita alla cantina storica e degustazione finale di 3 eccellenti vini Leonardi.",
     "tours.duration": "ore",
     "tours.difficulty.easy": "Facile",
     "tours.difficulty.medium": "Medio",
@@ -156,15 +157,15 @@ const translations = {
     "tours.title": "Our Tours",
     "tours.description":
       "Choose the experience that suits you from our guided tours, each designed to offer you the best of the territory.",
-    "tours.classic.title": "Classic Lake Tour",
-    "tours.classic.description":
-      "The perfect tour to discover the most beautiful panoramic points of Lake Bolsena, crossing vineyards and historic villages.",
-    "tours.vineyards.title": "Vineyards Tour",
-    "tours.vineyards.description":
-      "A complete immersion in the local wine tradition with visits to wineries and guided tastings.",
-    "tours.sunset.title": "Sunset Tour",
-    "tours.sunset.description":
-      "A romantic sunset experience with aperitif overlooking the lake and magical atmosphere.",
+    "tours.nature.title": "Bike Tour Nature",
+    "tours.nature.description":
+      "A total immersion in pristine nature, away from daily chaos. Paths through lush woods where you'll discover pure water springs, hidden waterfalls and breathtaking views of Lake Bolsena.",
+    "tours.panoramic.title": "Bike Tour Panoramic & Villages",
+    "tours.panoramic.description":
+      "A relaxing tour that will take you to discover the most spectacular panoramic points of the lake and the charming medieval villages that dot its shores, rich in history and traditions.",
+    "tours.wine.title": "Bike&Wine Experience",
+    "tours.wine.description":
+      "A unique experience among the vineyards of Antica Cantina Leonardi with panoramic lake views. Includes picnic with wine glass, visit to the historic winery and final tasting of 3 excellent Leonardi wines.",
     "tours.duration": "hours",
     "tours.difficulty.easy": "Easy",
     "tours.difficulty.medium": "Medium",
@@ -264,15 +265,15 @@ const translations = {
     "tours.title": "Unsere Touren",
     "tours.description":
       "Wählen Sie das Erlebnis, das zu Ihnen passt, aus unseren geführten Touren, jede darauf ausgelegt, Ihnen das Beste des Gebiets zu bieten.",
-    "tours.classic.title": "Klassische See-Tour",
-    "tours.classic.description":
-      "Die perfekte Tour, um die schönsten Panoramapunkte des Bolsena-Sees zu entdecken, durch Weinberge und historische Dörfer.",
-    "tours.vineyards.title": "Weinberg-Tour",
-    "tours.vineyards.description":
-      "Ein komplettes Eintauchen in die lokale Weintradition mit Besuchen in Weingütern und geführten Verkostungen.",
-    "tours.sunset.title": "Sonnenuntergangs-Tour",
-    "tours.sunset.description":
-      "Ein romantisches Sonnenuntergangserlebnis mit Aperitif mit Blick auf den See und magischer Atmosphäre.",
+    "tours.nature.title": "Bike Tour Nature",
+    "tours.nature.description":
+      "Ein vollständiges Eintauchen in die unberührte Natur, fernab vom täglichen Chaos. Wege durch üppige Wälder, wo Sie reine Wasserquellen, versteckte Wasserfälle und atemberaubende Ausblicke auf den Bolsena-See entdecken.",
+    "tours.panoramic.title": "Bike Tour Panoramic & Villages",
+    "tours.panoramic.description":
+      "Eine entspannende Tour, die Sie zu den spektakulärsten Panoramapunkten des Sees und den charmanten mittelalterlichen Dörfern führt, die seine Ufer säumen, reich an Geschichte und Traditionen.",
+    "tours.wine.title": "Bike&Wine Experience",
+    "tours.wine.description":
+      "Ein einzigartiges Erlebnis zwischen den Weinbergen der Antica Cantina Leonardi mit Panoramablick auf den See. Inklusive Picknick mit Weinglas, Besuch des historischen Weinguts und abschließende Verkostung von 3 exzellenten Leonardi-Weinen.",
     "tours.duration": "Stunden",
     "tours.difficulty.easy": "Einfach",
     "tours.difficulty.medium": "Mittel",

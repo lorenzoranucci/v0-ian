@@ -27,10 +27,10 @@ export function HeroSection() {
       {/* Background Video */}
       <div className="absolute inset-0 z-0">
         <video autoPlay muted loop playsInline className="w-full h-full object-cover" poster="/hero-bg.jpg">
-          <source src="/hero.mp4" type="video/mp4" />
+          <source src="/hero2.mp4" type="video/mp4" />
           {/* Fallback image if video doesn't load */}
           <Image
-            src="/images/hero-bg.jpg"
+            src="/hero-bg.jpg"
             alt="Bike tour through vineyards at Lake Bolsena"
             fill
             className="object-cover"
